@@ -1,6 +1,6 @@
 ﻿
 new CalcProject.App.Calc().Run();
-
+// Comment from github
 /*
  * Ідея - калькулятор "незвичайних" чисел
  * 1. Римські числа
